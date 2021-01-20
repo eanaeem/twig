@@ -1,14 +1,14 @@
 # Utility library
 
-Utlity libarary
+Utility library
 
 # Getting Started
 
 - `npm install`
 
-# Run exeuctable
+# Run executable
 
-- './index.js --array=[1,2,3,4,5] --size=2'
+- ./index.js --array=[1,2,3,4,5] --size=2
 
 # Run test
 
