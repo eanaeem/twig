@@ -1,0 +1,18 @@
+{
+  "name": "@twig/utilities",
+  "version": "1.0.0",
+  "description": "utility library",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": "Ehtisham",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
